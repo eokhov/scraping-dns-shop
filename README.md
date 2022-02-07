@@ -1,18 +1,18 @@
-###scraping-dns-shop
+# scraping-dns-shop
 
-#Before starting
+### Before starting
 
 ```
 $ npm install
 ```
 
-#Running in terminal
+### Running in terminal
 
 ```
 $ npm start
 ```
 
-#After starting, go to
+### After starting, go to
 
 ```
 http://localhost:3000
