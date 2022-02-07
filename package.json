@@ -1,0 +1,30 @@
+{
+  "name": "scraping-dns-shop",
+  "version": "1.0.0",
+  "description": "test task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eokhov/scraping-dns-shop.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "scraping"
+  ],
+  "author": "Evgeniy Okhov <eokhov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eokhov/scraping-dns-shop/issues"
+  },
+  "homepage": "https://github.com/eokhov/scraping-dns-shop#readme",
+  "devDependencies": {
+    "eslint": "^8.8.0"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "puppeteer": "^13.1.3"
+  }
+}
